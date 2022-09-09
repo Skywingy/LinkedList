@@ -1,5 +1,5 @@
 console.log("Hello");
-
+//1.
 class Node {
     constructor(value) {
         this.value = value;
